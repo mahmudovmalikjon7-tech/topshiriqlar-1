@@ -1,0 +1,233 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.section1{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    height: 100px;
+    background-color: red;
+    padding: 50px;
+}
+.h1{
+    border: 2px solid black;
+    padding: 10px;
+    color: aliceblue;
+}
+.h6{
+    border: 2px solid black;
+    padding: 10px;
+    color: aliceblue;
+}
+.p{
+    font-size: 30px;
+}
+
+
+.section2{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    height: 150px;
+    background-color: blueviolet;
+    padding: 80px;
+}
+
+
+.kavadrat1{
+    height: 70px;
+    width: 70px;
+    background-color: cornflowerblue;
+}
+.kavadrat2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(20, 98, 4);
+}
+.kavadrat1:hover{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(20, 98, 4);
+    transition: 3s;
+
+}
+.kavadrat2:hover{
+     height: 70px;
+    width: 70px;
+    background-color: cornflowerblue;
+    transition: 3s;
+}
+
+.section3{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    height: 150px;
+    background-color: gold;
+    padding: 80px;
+}
+
+.number{
+    color: rgb(32, 206, 206);
+    padding: 0 800px 0 0;
+    font-size: 40px;
+    
+}
+.section4{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    height: 150px;
+    background-color: rgb(21, 120, 182);
+    padding: 100px 200px;
+}
+button{
+    background-color: chocolate;
+    border: 2px solid black;
+    color: aliceblue;
+    padding: 20px;
+}
+.joy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid rgb(17, 14, 14);
+    width: 70px;
+    height: 70px;
+}
+
+.section5{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    height: 150px;
+    background-color: rgb(225, 181, 150);
+    padding: 100px 200px;
+}
+
+.kub{
+    width: 150px;
+    height: 150px;
+    transition: 1s;
+    background-color: brown;
+}     
+
+.aylan{
+    transform: rotate(360deg);
+}
+.section6{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    height: 150px;
+    background-color: purple;
+    padding: 100px 200px;
+}
+.pi{
+    color: aliceblue;
+    font-size: 30px;
+}
+
+.time{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    background-color: aqua;
+    width: 150px;
+    height: 70px;
+}
+
+.section7{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    height: 150px;
+    background-color: rgb(152, 170, 172);
+    padding: 100px 200px;
+}
+
+.minus{
+    background-color: aqua;
+    padding: 30px 60px;
+    border: 2px solid aquamarine;
+    font-size: 60px;
+    color: black;
+}.pilus{
+    background-color: aqua;
+    padding: 30px 60px;
+    border: 2px solid aquamarine;
+    font-size: 60px;
+    color: black;
+}
+#number{
+    font-size: 40px;
+    color: antiquewhite;
+}
+
+.section8{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    height: 400px;
+    background-color: rgb(162, 224, 231);
+    padding: 100px 200px;
+}
+
+.change{
+    width: 300px;
+    height: 300px;
+    background-color: rgb(92, 194, 214);
+    border: 5px solid rgb(90, 24, 133);
+}
+
+.ranglar{
+    width: 215px;
+    height: 105px;
+
+}
+
+.qizil{
+    background-color: brown;
+    border: none;
+    padding: 25px;
+}.yashil{
+    background-color: green;
+    border: none;
+    padding: 25px;
+}.blue{
+    background-color: blue;
+    padding: 25px;
+    border: none;
+}.sariq{
+    background-color: yellow;
+    padding: 25px;
+    border: none;
+}.pushti{
+    background-color: pink;
+    padding: 25px;
+    border: none;
+}.moviy_rang{
+    background-color: cornflowerblue;
+    padding: 25px;
+    border: none;
+}.sabzi_rang{
+    background-color: coral;
+    padding: 25px;
+    border: none;
+}.moviy_rang2{
+    background-color: darkturquoise;
+    padding: 25px;
+    border: none;
+}
